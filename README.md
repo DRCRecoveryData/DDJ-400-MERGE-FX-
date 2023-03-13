@@ -1,5 +1,7 @@
 # DDJ-400-MERGE-FX
 
+![9972C70F-2F42-401D-ADF2-D561DA4F18EC](https://user-images.githubusercontent.com/85211068/224831567-f9686298-cf91-4298-8bbe-831ebdc91101.png)
+
 Enhance the Merge FX feature on your Pioneer DDJ-400 DJ controller with DDJ-400-MERGE-FX. This mod allows you to customize the behavior of the Merge FX knobs, buttons, and LEDs using an Arduino board and the Control-Surface library.
 
 ## Requirements
